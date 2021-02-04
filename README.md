@@ -7,5 +7,3 @@
 *... and third commit*
 
 *Making changes for 2f*
-
-*Making changes for 2g*
